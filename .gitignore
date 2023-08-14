@@ -1,0 +1,4 @@
+outputs*
+*.pth
+.DS_Store
+__pychcache__
